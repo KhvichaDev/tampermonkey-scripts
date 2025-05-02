@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         ChatGPT Combined Customizer
 // @namespace    http://tampermonkey.net/
-// @version      8.9
+// @version      1.0
 // @description  Customizes ChatGPT UI with multiple enhancements
 // @author       KhvichaDev
-// @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
 // @grant        none
 // ==/UserScript==
