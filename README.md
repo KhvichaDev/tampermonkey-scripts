@@ -27,6 +27,11 @@
 
 ---
 
+## 🎞 ინტერფეისის შედარება (ძველი VS ახალი)
+
+![ინტერფეისის შედარება](https://i.imgur.com/ww2WDui.gif)
+
+
 ## 🎥 ვიდეო დემონსტრაცია
 
 [![გადახედეთ ვიდეოს](https://img.youtube.com/vi/9ovvobGhYiE/hqdefault.jpg)](https://youtu.be/9ovvobGhYiE)
