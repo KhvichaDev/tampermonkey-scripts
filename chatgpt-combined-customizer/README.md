@@ -50,7 +50,7 @@
 
 ## 🎥 ვიდეო დემონსტრაცია
 
-[![გადახედეთ ვიდეოს](https://img.youtube.com/vi/9ovvobGhYiE/hqdefault.jpg)](https://youtu.be/9ovvobGhYiE)
+[![გადახედეთ ვიდეოს](https://img.youtube.com/vi/tXqm06XisZk/hqdefault.jpg)](https://youtu.be/tXqm06XisZk?si=7xnVUdnvdnBWeMO5)
 
 ---
 
