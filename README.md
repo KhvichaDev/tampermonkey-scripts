@@ -7,7 +7,7 @@
 
 ## 📜 ხელმისაწვდომი სკრიპტები
 
-🔹 [ChatGPT Combined Customizer]([https://bit.ly/4jYq5fd](https://github.com/KhvichaDev/tampermonkey-scripts/tree/main/chatgpt-combined-customizer)
+🔹 [ChatGPT Combined Customizer](https://github.com/KhvichaDev/tampermonkey-scripts/tree/main/chatgpt-combined-customizer)
 
 ---
 
