@@ -230,6 +230,7 @@
       #my-projects-modal li:hover { background: var(--token-sidebar-surface-tertiary,rgba(255,255,255,.08)); }
       #mp-close { position:absolute; top:5px; right:12px; background:none; border:none; color:#999; font-size:28px; cursor:pointer; transition:color .15s; }
       #mp-close:hover { color:#fff }
+      div.bg-token-border-default.my-2.ms-2.h-px.w-7{ display:none }
     `;
     const style = document.createElement('style');
     style.id = 'mp-style';
