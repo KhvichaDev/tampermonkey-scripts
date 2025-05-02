@@ -1,10 +1,10 @@
 # ChatGPT Combined Customizer  
-**ავტორი: KhvichaDev 🇬🇪**
+**ავტორი: KhvichaDev**
 
-[![Version](https://img.shields.io/badge/version-8.9-blue)](https://github.com/KhvichaDev)
+[![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/KhvichaDev)
 [![Author](https://img.shields.io/badge/author-KhvichaDev-green)](https://github.com/KhvichaDev)
 [![Install with Tampermonkey](https://img.shields.io/badge/install-Tampermonkey-critical)](https://www.tampermonkey.net/)
-[![Supported Sites](https://img.shields.io/badge/sites-chat.openai.com%20|%20chatgpt.com-lightgrey)](https://chat.openai.com)
+[![Supported Sites](https://img.shields.io/badge/sites-chatgpt.com-lightgrey)](https://chatgpt.com)
 
 ---
 
